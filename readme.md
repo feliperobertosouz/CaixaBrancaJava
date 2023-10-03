@@ -33,3 +33,11 @@ Local
 
 Local
  - A classe User possui um metodo que faz conexão com o banco de dados sendo que essa não é uma responsabilidade que essa classe deveria ter
+
+# Código anotado os nós
+
+ <img src='./images/codigo-nos-java.png'>
+
+ # Grafo
+
+ <img src='./images/grafo.png'>
